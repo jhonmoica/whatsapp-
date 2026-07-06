@@ -1,0 +1,6 @@
+{
+  "name": "WhatsApp Clone",
+  "description": "A modern WhatsApp Clone with real-time style chats, status updates, call logs, settings, and beautiful Material Design 3 styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
